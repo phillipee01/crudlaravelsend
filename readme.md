@@ -6,12 +6,12 @@ esta hecha en PHP sobre el framework Laravel, contiene Bootstrap, Javascript, JQ
 
 <h1>Requisitos</h1>
 <p>	
-La aplicación esta hecha en PHP 5.6.33 en el framework <a href="https://laravel.com/docs/5.3" target="_blank">Laravel v.5.3</a>.
+La aplicación esta hecha en PHP 5.6.34 en el framework <a href="https://laravel.com/docs/5.4" target="_blank">Laravel v.5.4</a>.
 </p>
 <ol>
-	<li>PHP 5.6.33</li>
-	<li>MySQL</li>
-	<li>Apache</li>
+-PHP 5.6.34
+-MySQL
+-Apache
 </ol>
 <h1>Installación</h1>
 <ol>
@@ -20,5 +20,10 @@ La aplicación esta hecha en PHP 5.6.33 en el framework <a href="https://laravel
   <li>Crear un directorio con el nombre que desee para el proyecto en la carpeta public de su servidor (xampp en local, o apache en servidor linux)</li>
   <li>Pegar dentro del directorio anterior todos los archivos que descargo sin el archivo pruebalaravelsend.sql y la imagen pruebalaravelsend.png</li>
   <li>En el archivo .env asignar usuario y password de base de datos segun su configuracion, en los parametros DB_USERNAME y DB_PASSWORD </li>  
+</ol>
+
+<h1>Diagrama MER</h1>
+<ol>
+  <li>El diagrama mer es el archivo pruebalaravelsend.png en la carpeta base </li>
 </ol>
 
